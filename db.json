@@ -1,0 +1,5 @@
+{ 
+    title: ‘thread-title’,
+    description: ‘thread-description’,
+    subcategoryId: ‘subcategoryId’
+}
